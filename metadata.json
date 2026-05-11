@@ -1,0 +1,8 @@
+{
+  "name": "Lumi Olympic Guide",
+  "description": "Futuristic glassmorphic Olympic guide powered by Gemini and ElevenLabs.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
